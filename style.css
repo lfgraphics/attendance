@@ -1,0 +1,10 @@
+/* table,tr,td{
+    border: 1px solid;
+} */
+
+button:disabled{
+    background-color: #616161;
+}
+button:disabled:hover{
+    background-color: #616161;
+}
